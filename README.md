@@ -40,6 +40,10 @@ NUMPAD 0 - Shoot
 ## To Play
 You should be able to simply run the ```Final.exe``` in ```Final/bin/Debug/```
 
+or
+
+You can download the ```south-park-space-invaders-v1.0.0.zip``` via the [Releases](https://github.com/rroylance/south-park-space-invaders-school-project/releases) page to just get the build.
+
 ## Credits
 
 Designed & Developed by: Richard Roylance (@rroylance)
