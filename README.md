@@ -43,4 +43,5 @@ You should be able to simply run the ```Final.exe``` in ```Final/bin/Debug/```
 ## Credits
 
 Designed & Developed by: Richard Roylance (@rroylance)
+
 Sounds curtesy of: www.southparkstudios.com
