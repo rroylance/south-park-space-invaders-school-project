@@ -17,19 +17,25 @@ You play as either Stan, Kyle , Cartman, or Butters in a fight against the Crab 
 ## Controls
 ### Single-Player
 A or LEFT ARROW - Left
+
 D or RIGHT ARROW - Right
+
 SPACE - Shoot
 
 ### Multi-Player
 #### Player 1
 W - Up
+
 S - Down
+
 SPACE - Shoot
+
 #### Player 2
 UP ARROW - Up
-DOWN ARROW - Down
-NUMPAD 0 - Shoot
 
+DOWN ARROW - Down
+
+NUMPAD 0 - Shoot
 
 ## To Play
 You should be able to simple run the ```Final.exe``` in ```Final/bin/Debug/```
