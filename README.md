@@ -38,7 +38,7 @@ DOWN ARROW - Down
 NUMPAD 0 - Shoot
 
 ## To Play
-You should be able to simple run the ```Final.exe``` in ```Final/bin/Debug/```
+You should be able to simply run the ```Final.exe``` in ```Final/bin/Debug/```
 
 ## Credits
 
