@@ -1,0 +1,20 @@
+C:\Documents and Settings\Richard\Desktop\Final\Final\bin\Debug\Final.exe
+C:\Documents and Settings\Richard\Desktop\Final\Final\bin\Debug\Final.pdb
+C:\Documents and Settings\Richard\Desktop\Final\Final\bin\Debug\Final.xml
+C:\Documents and Settings\Richard\Desktop\Final\Final\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Richard\Desktop\Final\Final\obj\Debug\Final.Resources.resources
+C:\Documents and Settings\Richard\Desktop\Final\Final\obj\Debug\Final.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Richard\Desktop\Final\Final\obj\Debug\Final.exe
+C:\Documents and Settings\Richard\Desktop\Final\Final\obj\Debug\Final.xml
+C:\Documents and Settings\Richard\Desktop\Final\Final\obj\Debug\Final.pdb
+C:\Documents and Settings\Richard\Desktop\Final\Final\obj\Debug\Final.frmStart.resources
+L:\Comp. Info\Final\Final\obj\Debug\Final.exe
+L:\Comp. Info\Final\Final\obj\Debug\Final.xml
+L:\Comp. Info\Final\Final\obj\Debug\Final.pdb
+L:\Comp. Info\Final\Final\bin\Debug\Final.exe
+L:\Comp. Info\Final\Final\bin\Debug\Final.pdb
+L:\Comp. Info\Final\Final\bin\Debug\Final.xml
+L:\Comp. Info\Final\Final\obj\Debug\ResolveAssemblyReference.cache
+L:\Comp. Info\Final\Final\obj\Debug\Final.Resources.resources
+L:\Comp. Info\Final\Final\obj\Debug\Final.frmStart.resources
+L:\Comp. Info\Final\Final\obj\Debug\Final.vbproj.GenerateResource.Cache

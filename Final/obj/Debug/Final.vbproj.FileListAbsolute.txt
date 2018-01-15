@@ -1,0 +1,35 @@
+L:\Comp. Info\Final\Final\obj\Debug\Final.exe
+L:\Comp. Info\Final\Final\obj\Debug\Final.xml
+L:\Comp. Info\Final\Final\obj\Debug\Final.pdb
+L:\Comp. Info\Final\Final\bin\Debug\Final.exe
+L:\Comp. Info\Final\Final\bin\Debug\Final.pdb
+L:\Comp. Info\Final\Final\bin\Debug\Final.xml
+L:\Comp. Info\Final\Final\obj\Debug\ResolveAssemblyReference.cache
+L:\Comp. Info\Final\Final\obj\Debug\Final.Highscores.resources
+L:\Comp. Info\Final\Final\obj\Debug\Final.Resources.resources
+L:\Comp. Info\Final\Final\obj\Debug\Final.frmStart.resources
+L:\Comp. Info\Final\Final\obj\Debug\Final.vbproj.GenerateResource.Cache
+L:\Comp. Info\Final\Final\obj\Debug\Final.Char_Select.resources
+C:\Documents and Settings\Richard\Desktop\Final\Final\obj\Debug\Final.exe
+C:\Documents and Settings\Richard\Desktop\Final\Final\obj\Debug\Final.xml
+C:\Documents and Settings\Richard\Desktop\Final\Final\obj\Debug\Final.pdb
+C:\Documents and Settings\Richard\Desktop\Final\Final\bin\Debug\Final.exe
+C:\Documents and Settings\Richard\Desktop\Final\Final\bin\Debug\Final.pdb
+C:\Documents and Settings\Richard\Desktop\Final\Final\bin\Debug\Final.xml
+C:\Documents and Settings\Richard\Desktop\Final\Final\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Richard\Desktop\Final\Final\obj\Debug\Final.Battle.resources
+C:\Documents and Settings\Richard\Desktop\Final\Final\obj\Debug\Final.Battle_Char_Select.resources
+C:\Documents and Settings\Richard\Desktop\Final\Final\obj\Debug\Final.Char_Select.resources
+C:\Documents and Settings\Richard\Desktop\Final\Final\obj\Debug\Final.Highscores.resources
+C:\Documents and Settings\Richard\Desktop\Final\Final\obj\Debug\Final.Kenny_Dead.resources
+C:\Documents and Settings\Richard\Desktop\Final\Final\obj\Debug\Final.Level1.resources
+C:\Documents and Settings\Richard\Desktop\Final\Final\obj\Debug\Final.Level2.resources
+C:\Documents and Settings\Richard\Desktop\Final\Final\obj\Debug\Final.Resources.resources
+C:\Documents and Settings\Richard\Desktop\Final\Final\obj\Debug\Final.Panda_Dead.resources
+C:\Documents and Settings\Richard\Desktop\Final\Final\obj\Debug\Final.frmStart.resources
+C:\Documents and Settings\Richard\Desktop\Final\Final\obj\Debug\Final.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Richard\Desktop\Final\Final\obj\Debug\Final.Login.resources
+C:\Documents and Settings\Richard\Desktop\Final\Final\obj\Debug\Final.Register.resources
+J:\Final\Final\obj\Debug\Final.exe
+J:\Final\Final\obj\Debug\Final.xml
+J:\Final\Final\obj\Debug\Final.pdb
